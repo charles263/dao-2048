@@ -13,3 +13,4 @@ EXPOSE 80
 
 # Start Nginx and keep it from running background
 CMD ["nginx", "-g", "daemon off;"]
+##
